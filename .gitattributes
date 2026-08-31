@@ -19,3 +19,7 @@
 *.pdf binary
 *.parquet binary
 *.zip binary
+
+# Excluir resultados generados de las estadísticas de lenguaje de GitHub.
+hist-unificado-site/hist_unificado.html linguist-generated
+outputs/Trabajo1_Clima.executed.ipynb linguist-generated
