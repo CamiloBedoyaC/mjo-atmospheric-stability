@@ -1,0 +1,21 @@
+# Finales de línea consistentes en Windows, macOS y Linux.
+* text=auto
+
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.sha256 text eol=lf
+*.ipynb text eol=lf
+# Plotly incluye espacios finales en su JavaScript generado; no son errores.
+*.html text eol=lf whitespace=-trailing-space
+
+# Artefactos binarios: Git no debe intentar normalizarlos.
+*.png binary
+*.gif binary
+*.pdf binary
+*.parquet binary
+*.zip binary

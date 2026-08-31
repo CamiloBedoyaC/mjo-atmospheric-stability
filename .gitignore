@@ -1,0 +1,41 @@
+# Entornos y cachés de Python
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Configuración local
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Datos crudos: se documentan sus fuentes, pero no se publican
+/FMM00091334-data.txt
+/data/IGRA/
+/data/rmm.74toRealtime.txt
+
+# Exportaciones alternativas o históricas
+/Histogra_FMM.html
+/Histogra_PSM.html
+/index_codepen.html
+
+# Figuras históricas reemplazadas por las versiones canónicas
+/figs/*_box_N2.png
+/figs/*_box_N2_dark_nofill.png
+/figs/*_box_N2_dark_nofill_micro.png
+/figs/*_composites_barras.png
+/figs/*_hist_unificado_N2.png
+/figs/*_theta_profile.png
+
+# Temporales
+*.tmp
+*.log
+~$*
