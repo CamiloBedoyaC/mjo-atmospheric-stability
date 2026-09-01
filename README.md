@@ -342,11 +342,10 @@ han cambiado con el tiempo.
 Proyecto desarrollado en coautoría por:
 
 - [Juan Camilo Bedoya Carmona](https://github.com/CamiloBedoyaC)
-- [Linda Catalina Correa](https://github.com/LindaCatalina)
+- [Linda Catalina Correa Lozano](https://github.com/LindaCatalina)
 
-No se atribuye el proyecto completo a una sola persona. Las responsabilidades
-individuales deben describirse únicamente de acuerdo con la participación real
-que cada autor pueda acreditar.
+La información para citar correctamente este proyecto se encuentra en
+[CITATION.cff](CITATION.cff).
 
 ## Fuentes
 
