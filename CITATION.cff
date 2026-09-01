@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si utiliza este trabajo, cite el repositorio y a sus autores."
+title: "Cómo cambia la estabilidad atmosférica tropical durante la MJO"
+type: software
+authors:
+  - family-names: "Bedoya Carmona"
+    given-names: "Juan Camilo"
+  - family-names: "Correa Lozano"
+    given-names: "Linda Catalina"
+version: 1.0.0
+date-released: 2026-08-30
+repository-code: "https://github.com/CamiloBedoyaC/mjo-atmospheric-stability"
+keywords:
+  - atmospheric-stability
+  - environmental-data-science
+  - Madden-Julian-Oscillation
+  - Python
+  - radiosondes
+  - reproducible-research
